@@ -1,0 +1,9 @@
+.pagination {
+	display: block;
+}
+
+.share-icons a {
+	font-size: 19px;
+	line-height: 37px;
+	padding: 0 10px;
+}
